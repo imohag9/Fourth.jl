@@ -3,6 +3,8 @@ Fourth is good
 """
 module Fourth
 
+export plusTwo
+
 """
 plusTwo(x)
 Sum the numeric "2" to whatever it receives as input
