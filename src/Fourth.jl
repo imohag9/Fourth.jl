@@ -6,7 +6,7 @@ module Fourth
 export plusTwo
 
 """
-plusTwo(x)
+plusTwo(x)w
 Sum the numeric "2" to whatever it receives as input
 A more detailed explanation can go here, although I guess it is not needed in th
 # Arguments
