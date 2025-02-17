@@ -2,5 +2,6 @@ using Fourth
 using Test
 
 @testset "Fourth.jl" begin
-    # Write your tests here.
+    out = plusTwo(3)
+    @test out == 5
 end
