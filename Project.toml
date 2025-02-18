@@ -3,7 +3,11 @@ uuid = "d1308b32-3811-4e4e-a1c2-ce5f3e4e158d"
 authors = ["imohag9 <souidi.hamza90@gmail.com> and contributors"]
 version = "0.0.1"
 
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+
 [compat]
+FileIO = "1.16.6"
 julia = "1.6.7"
 
 [extras]
